@@ -1,3 +1,6 @@
+
+https://github.com/Hailiye-Abiti/Student-Feedback-System/tree/v1.0.0
+
 # Student-Feedback-System
 A Java-based desktop application designed for Wachemo University to manage and analyze student feedback efficiently. Built with Java (Swing/JavaFX) and MySQL database.
 
@@ -25,3 +28,11 @@ A Java-based desktop application developed for Wachemo University (WCU) to effic
 1. Import `database.sql` into your local MySQL server (phpMyAdmin / MySQL Workbench).
 2. Ensure Java Runtime Environment (JRE) is installed.
 3. Download and run `WCU_Feedback.exe` or `WCU_Feedback_Management_System.jar`.
+
+   ### ⚠️ Note for Windows Users (SmartScreen Warning)
+When you run `WCU_Feedback.exe` for the first time, Windows SmartScreen might pop up with a "Windows protected your PC" warning because the app is self-signed. 
+To run it:
+1. Click on **"More info"**.
+2. Click **"Run anyway"**.
+
+   
