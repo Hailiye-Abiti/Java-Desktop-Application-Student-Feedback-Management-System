@@ -1,0 +1,42 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Administrator\Documents\NetBeansProjects\WCU_Feedback_Management_System\dist\WCU_Feedback.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Requires JDK:	Yes
+Requires 64-Bit: Yes
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\OracleXE\OracleXE213_Win64\dbhomeXE\bin;C:\app\Hailiye\product\21c\OracleXE213_Win64\dbhomeXE\bin;C:\app\Hailiye\product\21c\dbhomeXE\bin;C:\Users\Administrator\Downloads\WINDOWS.X64_213000_db_home\bin;C:\Users\Administrator\Desktop\ORACLE\WINDOWS.X64_213000_db_home\bin;C:\Users\Administrator\Downloads\WINDOWS.X64_193000_db_home\bin;C:\oracle\WINDOWS.X64_193000_db_home\bin;C:\Users\Administrator\Downloads\OracleXE213_Win64\dbhomeXE\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Administrator\AppData\Local\Programs\Python\Launcher\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Local\GitHubDesktop\bin;C:\Users\Administrator\AppData\Roaming\npm;C:\Program Files\Java\jdk-24\bin
+JRE paths:	;C:\oraclexe\app\oracle\product\10.2.0\server\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\OracleXE\OracleXE213_Win64\dbhomeXE\bin;C:\app\Hailiye\product\21c\OracleXE213_Win64\dbhomeXE\bin;C:\app\Hailiye\product\21c\dbhomeXE\bin;C:\Users\Administrator\Downloads\WINDOWS.X64_213000_db_home\bin;C:\Users\Administrator\Desktop\ORACLE\WINDOWS.X64_213000_db_home\bin;C:\Users\Administrator\Downloads\WINDOWS.X64_193000_db_home\bin;C:\oracle\WINDOWS.X64_193000_db_home\bin;C:\Users\Administrator\Downloads\OracleXE213_Win64\dbhomeXE\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\Administrator\AppData\Local\Programs\Python\Launcher\;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Administrator\AppData\Local\GitHubDesktop\bin;C:\Users\Administrator\AppData\Roaming\npm;C:\Program Files\Java\jdk-24\bin
+Check launcher:	C:\oraclexe\app\oracle\product\10.2.0\server\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\OracleXE\OracleXE213_Win64\dbhomeXE\bin\javaw.exe (not found)
+Check launcher:	C:\app\Hailiye\product\21c\OracleXE213_Win64\dbhomeXE\bin\javaw.exe (not found)
+Check launcher:	C:\app\Hailiye\product\21c\dbhomeXE\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Administrator\Downloads\WINDOWS.X64_213000_db_home\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Administrator\Desktop\ORACLE\WINDOWS.X64_213000_db_home\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Administrator\Downloads\WINDOWS.X64_193000_db_home\bin\javaw.exe (not found)
+Check launcher:	C:\oracle\WINDOWS.X64_193000_db_home\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Administrator\Downloads\OracleXE213_Win64\dbhomeXE\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\nodejs\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Administrator\AppData\Local\Programs\Python\Launcher\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Administrator\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Administrator\AppData\Local\GitHubDesktop\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Administrator\AppData\Roaming\npm\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jdk-24\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-24\bin\javac.exe (OK)
+Version string: 1.024.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-24\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Administrator\Documents\NetBeansProjects\WCU_Feedback_Management_System\dist\WCU_Feedback.exe"
+Args length:	109/32768 chars
+Exit code:	0
