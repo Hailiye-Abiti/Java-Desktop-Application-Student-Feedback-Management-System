@@ -1,5 +1,6 @@
 
-https://github.com/Hailiye-Abiti/Student-Feedback-System/tree/v1.0.0
+https://github.com/Hailiye-Abiti/Java-Desktop-Application-Student-Feedback-Management-System/releases/tag/v1.0.0
+
 
 # Student-Feedback-System
 A Java-based desktop application designed for Wachemo University to manage and analyze student feedback efficiently. Built with Java (Swing/JavaFX) and MySQL database.
