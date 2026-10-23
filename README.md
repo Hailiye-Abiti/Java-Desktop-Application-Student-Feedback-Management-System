@@ -1,5 +1,5 @@
 
-https://github.com/Hailiye-Abiti/Java-Desktop-Application-Student-Feedback-Management-System/releases/tag/v1.0.0
+https://github.com/Hailiye-Abiti/Java-Desktop-Application-Student-Feedback-Management-System/releases/latest
 
 
 # Student-Feedback-System
